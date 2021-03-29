@@ -5,4 +5,6 @@
 - 📫 Check my resume online: [AlTosterino](https://altosterino.com/)
 
 > Stay tuned for my personal blog!
+> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlTosterino&count_private=true&show_icons=true&theme=dracula)
 
