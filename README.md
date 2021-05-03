@@ -1,10 +1,4 @@
 ### Hi there 👋 I'm Daniel - Python developer 🐍 and welcome to my GitHub bio!
 
-- 🔭 I’m currently working at [STXNext](https://www.stxnext.com/)
-- 🌱 I’m currently learning Clean Architecture and JS/NodeJS
-- 📫 Check my resume online: [AlTosterino](https://altosterino.com/)
+![Metrics](https://metrics.lecoq.io/AlTosterino?template=classic&isocalendar=1&languages=1&stars=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=Europe%2FWarsaw)
 
-> Stay tuned for my personal blog!
-> 
-![AlTosterino's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlTosterino&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altosterino&layout=compact&theme=dracula)
