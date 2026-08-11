@@ -20,15 +20,6 @@ I also use tools such as OpenAI Codex and Claude Code to support design, impleme
 - **Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Sentry, Datadog
 - **AI-assisted engineering:** OpenAI Codex, Claude Code, AI agents and agentic development workflows
 
-## Selected work
-
-- [ADR-py](https://github.com/AlTosterino/ADR-py) — Python tooling for creating and managing Architectural Decision Records, demonstrating practical architecture documentation for engineering teams.
-- [Cron Drop](https://github.com/AlTosterino/crondop) — a complete desktop reminder product with a CLI, background daemon, native popup and tray experience, Homebrew distribution, packaging documentation and cross-platform release CI.
-- [Loguru Observability Example](https://github.com/AlTosterino/Loguru-Observability-Example) — a runnable example connecting Python logging with OpenTelemetry, Loki and Grafana for inspecting application behavior in production-like environments.
-- [Lidi](https://github.com/AlTosterino/Lidi) — a lightweight Python dependency-injection library with a small API, type-oriented usage and automated tests.
-- [ToastInIT](https://github.com/AlTosterino/ToastInIT) — the Astro-based source of [toastin.it](https://toastin.it), a static technical blog with Markdown/MDX content, search, validation, tests and GitHub Pages deployment.
-- [tosuto](https://github.com/AlTosterino/tosuto) — a Python DSL for describing architecture as infrastructure-as-code, exploring how system structure can be made explicit and reviewable.
-
 ## Writing
 
 I write about Python, software architecture, APIs and engineering practice at [toastin.it](https://toastin.it).
