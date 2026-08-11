@@ -1,14 +1,47 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Python enthusiast, hobbyist and developer. Passionate about clean architecture and software architecture in general.</h3>
+# Daniel Różycki
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=altosterino&label=Profile%20views&color=0e75b6&style=flat" alt="altosterino" /> </p>
+**Senior Python Engineer building maintainable backend systems.**
 
-- 🌱 I’m currently learning **Architecture and TypeScript**
+Focused on software architecture, distributed systems, APIs, observability and production reliability.
 
-- 💬 Ask me about **Python, Application Architecture, Clean Architecture**
+[rozycki.dev](https://rozycki.dev) · [toastin.it](https://toastin.it) · [LinkedIn](https://www.linkedin.com/in/daniel-rozycki) · [kontakt@rozycki.dev](mailto:kontakt@rozycki.dev)
 
-- 📫 How to reach me **altosterino@gmail.com**
+## What I work on
 
+I build backend systems primarily in Python, with an emphasis on maintainability, clear boundaries and reliable operation in production. My work spans APIs, distributed systems, software architecture, observability, cloud infrastructure and the modernization of existing systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+I also use tools such as OpenAI Codex and Claude Code to support design, implementation, testing and review. The goal is disciplined AI-assisted engineering: faster feedback and delivery while keeping architecture, correctness and ownership with the engineer.
+
+## Technical focus
+
+- **Backend:** Python, FastAPI, Django, Django Ninja, SQLAlchemy, PostgreSQL, Redis, Celery
+- **Architecture and systems:** REST APIs, distributed and event-driven systems, microservices, Clean Architecture, Domain-Driven Design concepts, system modernization
+- **Cloud and infrastructure:** AWS, GCP, Docker, Terraform, GitHub Actions
+- **Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Sentry, Datadog
+- **AI-assisted engineering:** OpenAI Codex, Claude Code, AI agents and agentic development workflows
+
+## Selected work
+
+- [ADR-py](https://github.com/AlTosterino/ADR-py) — Python tooling for creating and managing Architectural Decision Records, demonstrating practical architecture documentation for engineering teams.
+- [Cron Drop](https://github.com/AlTosterino/crondop) — a complete desktop reminder product with a CLI, background daemon, native popup and tray experience, Homebrew distribution, packaging documentation and cross-platform release CI.
+- [Loguru Observability Example](https://github.com/AlTosterino/Loguru-Observability-Example) — a runnable example connecting Python logging with OpenTelemetry, Loki and Grafana for inspecting application behavior in production-like environments.
+- [Lidi](https://github.com/AlTosterino/Lidi) — a lightweight Python dependency-injection library with a small API, type-oriented usage and automated tests.
+- [ToastInIT](https://github.com/AlTosterino/ToastInIT) — the Astro-based source of [toastin.it](https://toastin.it), a static technical blog with Markdown/MDX content, search, validation, tests and GitHub Pages deployment.
+- [tosuto](https://github.com/AlTosterino/tosuto) — a Python DSL for describing architecture as infrastructure-as-code, exploring how system structure can be made explicit and reviewable.
+
+## Writing
+
+I write about Python, software architecture, APIs and engineering practice at [toastin.it](https://toastin.it).
+
+## Speaking
+
+- Python Łódź Meetup — “Jak logi mogą ocalić Twój dzień?”
+- Python Katowice Meetup — “Simple is better than complex”
+- PyData Bydgoszcz — “Simple is better than complex”
+
+## Elsewhere
+
+- Website — [rozycki.dev](https://rozycki.dev)
+- Blog — [toastin.it](https://toastin.it)
+- LinkedIn — [linkedin.com/in/daniel-rozycki](https://www.linkedin.com/in/daniel-rozycki)
+- Email — [kontakt@rozycki.dev](mailto:kontakt@rozycki.dev)
